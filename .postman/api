@@ -13,3 +13,4 @@ files[] = {"id":"12587071-e0200b36-63c2-47d3-a3a7-dd2a1825193a","path":"cdg-v1.j
 rootDirectory = postman/schemas
 
 [relations.apiDefinition.metaData]
+type = openapi:3
