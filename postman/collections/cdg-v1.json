@@ -19,7 +19,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": ""
+							"raw": "{{domain-dev}}/{{path-product}}",
+							"host": [
+								"{{domain-dev}}"
+							],
+							"path": [
+								"{{path-product}}"
+							]
 						}
 					},
 					"response": []
