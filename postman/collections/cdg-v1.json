@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "e0200b36-63c2-47d3-a3a7-dd2a1825193a",
+		"name": "cdg-v1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "12587071-e0200b36-63c2-47d3-a3a7-dd2a1825193a"
+	},
+	"item": [
+		{
+			"name": "localhost:3000/",
+			"id": "485af2ec-8782-423d-9078-7ed452f24980",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
