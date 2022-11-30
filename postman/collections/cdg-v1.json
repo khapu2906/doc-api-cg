@@ -7,19 +7,25 @@
 	},
 	"item": [
 		{
-			"name": "localhost:3000/",
-			"id": "485af2ec-8782-423d-9078-7ed452f24980",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": [],
-				"url": {
-					"raw": ""
+			"name": "Product",
+			"item": [
+				{
+					"name": "product",
+					"id": "dece3408-975c-4ffc-b0e8-575db7c33844",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
 				}
-			},
-			"response": []
+			],
+			"id": "e2d98a77-c187-4245-ae32-fea5e5b5b18e"
 		}
 	]
 }
